@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
     background-color: #599e4b;
@@ -57,7 +57,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color:#ffff;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
